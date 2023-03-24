@@ -6,6 +6,8 @@ My goal is simple: Learn by Doing.
 
 ### Run
 Make sure you have Node.js and NPM installed on your machine.
+
+Rename `vars.env` to `.env` and fill the values.
 ```
 npm start
 ```
